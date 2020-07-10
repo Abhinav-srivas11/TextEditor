@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/End sequence/Problems-End_sequence.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/End sequence/Problems-End_sequence.iml" group="Text_Editor/Problems-End_sequence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/End sequence/Problems-End_sequence_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/End sequence/Problems-End_sequence_main.iml" group="Text_Editor/Problems-End_sequence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/End sequence/Problems-End_sequence_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/End sequence/Problems-End_sequence_test.iml" group="Text_Editor/Problems-End_sequence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes.iml" group="Text_Editor/Problems-Individual_taxes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes_main.iml" group="Text_Editor/Problems-Individual_taxes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes_test.iml" group="Text_Editor/Problems-Individual_taxes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetrical number/Problems-Symmetrical_number.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetrical number/Problems-Symmetrical_number.iml" group="Text_Editor/Problems-Symmetrical_number" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetrical number/Problems-Symmetrical_number_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetrical number/Problems-Symmetrical_number_main.iml" group="Text_Editor/Problems-Symmetrical_number" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetrical number/Problems-Symmetrical_number_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetrical number/Problems-Symmetrical_number_test.iml" group="Text_Editor/Problems-Symmetrical_number" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Text_Editor.iml" filepath="$PROJECT_DIR$/.idea/modules/Text_Editor.iml" group="Text_Editor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Text Editor/task/Text_Editor-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Text Editor/task/Text_Editor-task.iml" group="Text_Editor/Text_Editor-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Text Editor/task/Text_Editor-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Text Editor/task/Text_Editor-task_main.iml" group="Text_Editor/Text_Editor-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Text Editor/task/Text_Editor-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Text Editor/task/Text_Editor-task_test.iml" group="Text_Editor/Text_Editor-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Text_Editor/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Text_Editor/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Text_Editor/util" />
+    </modules>
+  </component>
+</project>
