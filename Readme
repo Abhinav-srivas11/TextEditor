@@ -1,2 +1,6 @@
 Finished Text Editor code can be found by following the below path:
 TextEditor/Text Editor/task/src/editor/
+
+Other folders inside the TextEditor main folder refer to the various stage implementations of the text editor application.
+
+Each folder depicts functionality that is available in the final application.
