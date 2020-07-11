@@ -1,6 +1,24 @@
-Finished Text Editor code can be found by following the below path:
+Hi there reader,
+
+I assume you are reading this file to get a better understanding of this project.
+Let me help you get a bit of a headstart.
+
+
+The final Text Editor code can be found by following the below path:
 TextEditor/Text Editor/task/src/editor/
 
-Other folders inside the TextEditor main folder refer to the various stage implementations of the text editor application.
+The other folders inside the TextEditor folder refer to the various stage implementations of the text editor application.
+Inside each folder is the instruction file for adding functionalities to the text editor.
 
-Each folder depicts functionality that is available in the final application.
+This project required me to do a lot of research on my own for materials that were not covered in the tutorial itself.
+At the same time it tested my knowledge and how well I could combine every concept that I knew at that moment of time.
+This tutorial provided the perfect combination of learning and implementation.
+It allowed me to create the code on my own with very little spoon feeding, which benefitted me by increasing my confidence and my ability to raise questions in a specific manner.
+
+Text Editor application has allowed me to practice all concepts of Java from the very basic.
+
+I am currently reading up on stage 4 concepts after which I shall be able to make this a fully working application as we see in our everyday lives.
+
+I shall update this file with more information soon.
+
+-Abhinav
